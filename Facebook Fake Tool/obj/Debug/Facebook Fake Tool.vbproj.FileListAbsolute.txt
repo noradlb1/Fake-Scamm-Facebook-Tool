@@ -1,0 +1,15 @@
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Facebook Fake Tool.exe.config
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Facebook Fake Tool.exe
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Facebook Fake Tool.pdb
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Facebook Fake Tool.xml
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook_Fake_Tool.Form1.resources
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook_Fake_Tool.Resources.resources
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook Fake Tool.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook Fake Tool.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook Fake Tool.exe
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook Fake Tool.xml
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook Fake Tool.pdb
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\obj\Debug\Facebook Fake Tool.vbproj.CopyComplete
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\source\repos\Facebook Fake Tool\Facebook Fake Tool\bin\Debug\Newtonsoft.Json.xml
